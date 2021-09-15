@@ -2,7 +2,7 @@
 
 Contains the questions and answers of the monsoon 2021 course 'Data Structures and Algorithms for Problem Solving' at IIIT-H 
 
-## Topics of each question
+## Topic of each question
 
 ### Lab 1
 - Q1: Fast Exponentiation
@@ -16,3 +16,9 @@ Contains the questions and answers of the monsoon 2021 course 'Data Structures a
 - Q2: Matrix Exponentiation
 - Q3: Stack
 - Q4: Queue
+
+### Lab 3
+- Q1: Recursion
+- Q2: Sorting
+- Q3: Sorting
+- Q4: Searching

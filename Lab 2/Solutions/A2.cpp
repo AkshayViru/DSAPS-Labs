@@ -13,9 +13,7 @@ vector<vector<int>> mux(vector<vector<int>>& a, vector<vector<int>>& b){
         for(int j=0; j<n; j++){
             res[i][j] = 0;
             for(int k=0; k<n; k++){
-                res[i][j] += (a[i][k]*b[k][j]);
-                if(res[i][j] >= M)
-                    res[i][j] %= M;
+                res[i][j] = (res[i][j]+(a[i][k]*b[k][j])%M)%M;
             }
         }
     }
