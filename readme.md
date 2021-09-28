@@ -28,3 +28,9 @@ Contains the questions and answers of the monsoon 2021 course 'Data Structures a
 - Q2: String
 - Q3: String
 - Q4: Array
+
+### Lab 5
+- Q1: Array
+- Q2: String
+- Q3: Heap
+- Q4: Maths
